@@ -11,7 +11,6 @@ With over a decade of hands-on experience, I’ve led teams and delivered scalab
 - Lead and mentor development teams to deliver high-quality, production-grade software  
 - Architect and build backend systems using **Java**, **Spring Boot**, and **JEE**  
 - Design robust, maintainable data solutions with **PostgreSQL** and **Flyway**  
-- Implement modern **DevOps** practices using **Docker**, **Podman**, and CI/CD automation  
 - Contribute to modern frontend projects using **Angular** and other web technologies  
 
 ---
